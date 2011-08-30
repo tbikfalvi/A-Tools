@@ -1,0 +1,5 @@
+Here is the list of the branches used in the project.
+
+Master - The main line of the project
+HotFix - Originated from master for the 'really-need-to-do-it-immediatelly' bugfixes.
+
